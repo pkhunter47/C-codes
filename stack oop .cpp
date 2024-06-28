@@ -57,8 +57,8 @@ return t+1;
  
 int main (){
 Stacks<string> *s=new Stacks<string>();
-s->push("run");
-s->push("why");
+s->push("potter");
+s->push("Harry");
 s->printStack();
  
 }
